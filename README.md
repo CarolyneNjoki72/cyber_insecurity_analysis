@@ -65,7 +65,7 @@ This project presents an interactive analysis of cyber attack incidents using Po
 
 **Carolyne Njoki**  
 Data Analyst | Passionate about turning cyber data into clarity and action  
-📫 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+📫 [LinkedIn](https://www.linkedin.com/in/carolyne-njoki-ab0769266/))  
 
 ---
 
